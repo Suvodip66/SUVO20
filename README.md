@@ -1,2 +1,4 @@
-# SUVO20
-university
+message = 'Python is fun'
+
+# print the string message
+print(message)
